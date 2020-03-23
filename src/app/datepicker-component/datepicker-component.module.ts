@@ -6,7 +6,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { IonicModule } from '@ionic/angular';
 
 import { DatepickerComponentPage } from './datepicker-component.page';
-import { Ionic4DatepickerModule } from 'ionic4-datepicker';
+import { Ionic4DatepickerModule } from 'dist/ionic5-datepicker';
 
 const routes: Routes = [
   {

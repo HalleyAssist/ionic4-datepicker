@@ -20,5 +20,18 @@
   "homepage": "https://github.com/halleyassist/ionic5-datepicker",
   "peerDependencies": {
     "moment": "^2.24.0"
+  },
+  "main": "bundles/googlproxer-ionic5-datepicker.umd.js",
+  "module": "fesm5/googlproxer-ionic5-datepicker.js",
+  "es2015": "fesm2015/googlproxer-ionic5-datepicker.js",
+  "esm5": "esm5/googlproxer-ionic5-datepicker.js",
+  "esm2015": "esm2015/googlproxer-ionic5-datepicker.js",
+  "fesm5": "fesm5/googlproxer-ionic5-datepicker.js",
+  "fesm2015": "fesm2015/googlproxer-ionic5-datepicker.js",
+  "typings": "googlproxer-ionic5-datepicker.d.ts",
+  "metadata": "googlproxer-ionic5-datepicker.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
   }
 }

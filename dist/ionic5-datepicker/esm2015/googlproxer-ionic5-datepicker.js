@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: googlproxer-ionic5-datepicker.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { Ionic4DatepickerService, CUSTOM_INPUT_CONTROL_VALUE_ACCESSOR, Ionic4DatepickerComponent, Ionic4DatepickerModule, Ionic4DatepickerModalComponent } from './public_api';
+export { LiIonic4DatepickerDirective as ɵa } from './lib/li-ionic4-datepicker.directive';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZ29vZ2xwcm94ZXItaW9uaWM1LWRhdGVwaWNrZXIuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AZ29vZ2xwcm94ZXIvaW9uaWM1LWRhdGVwaWNrZXIvIiwic291cmNlcyI6WyJnb29nbHByb3hlci1pb25pYzUtZGF0ZXBpY2tlci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUlBLGdLQUFjLGNBQWMsQ0FBQztBQUU3QixPQUFPLEVBQUMsMkJBQTJCLElBQUksRUFBRSxFQUFDLE1BQU0sc0NBQXNDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIEdlbmVyYXRlZCBidW5kbGUgaW5kZXguIERvIG5vdCBlZGl0LlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vcHVibGljX2FwaSc7XG5cbmV4cG9ydCB7TGlJb25pYzREYXRlcGlja2VyRGlyZWN0aXZlIGFzIMm1YX0gZnJvbSAnLi9saWIvbGktaW9uaWM0LWRhdGVwaWNrZXIuZGlyZWN0aXZlJzsiXX0=

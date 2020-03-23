@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ModalController } from '@ionic/angular';
 
-import { Ionic4DatepickerModalComponent } from 'ionic4-datepicker';
+import { Ionic4DatepickerModalComponent } from 'dist/ionic5-datepicker';
 
 @Component({
   selector: 'app-datepicker-button',

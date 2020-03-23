@@ -5,7 +5,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 import { IonicModule } from '@ionic/angular';
 import { ReactiveFormPage } from './reactive-form.page';
-import { Ionic4DatepickerModule } from 'ionic4-datepicker';
+import { Ionic4DatepickerModule } from 'dist/ionic5-datepicker';
 
 const routes: Routes = [
   {
